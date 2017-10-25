@@ -1,0 +1,5 @@
+[object Object]kjasksjd sdkfjshdlfkj{question: skjdfsl, answer: sjkdfhs;d}
+{
+question: 'skdjfhsldjf', 
+answer: 'skjdfhsldf'
+}
